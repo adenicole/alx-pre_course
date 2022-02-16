@@ -1,4 +1,4 @@
-This is Adedoyin Adeyemi *ALX-PRE_COURSE* on Git and Git hub.
+This is Adedoyin Adeyemi *ALX-PRE_COURSE* on Git and Github.
 
 There are various Git commands which includes;
 - ``` git add .```
